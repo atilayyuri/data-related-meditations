@@ -28,4 +28,4 @@ To setup Anaconda environment please follow below steps:
 
 - Activate the environment using ```conda activate data-related-meditations```
 
-- You can use the command ```jupyter notebook```to browse through directories and check the .ipynb files
+- You can use the command ```jupyter notebook``` to browse through directories and check the .ipynb files
