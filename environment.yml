@@ -1,0 +1,14 @@
+name: data-related-meditations
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - python=3.9
+  - plotly
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyterlab
+  - pandas-datareader
+prefix: C:\Users\user.FBTSB1\anaconda3\envs\data-related-meditations
