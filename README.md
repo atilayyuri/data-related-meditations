@@ -27,3 +27,5 @@ To setup Anaconda environment please follow below steps:
 - To create the same environment this project uses, use the terminal or an Anaconda Prompt (make sure that you are still in local project repository) and type in ```conda env create -f environment.yml```. In case this is not working please refer to [Anaconda document](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#)
 
 - Activate the environment using ```conda activate data-related-meditations```
+
+- You can use the command ```jupyter notebook```to browse through directories and check the .ipynb files
