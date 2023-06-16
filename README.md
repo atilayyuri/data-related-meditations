@@ -20,8 +20,10 @@ For users without experience, one of the popular methods for data science is usi
 
 To setup Anaconda environment please follow below steps:
 
-- Download Anaconda from [Anaconda](https://www.anaconda.com/products/distribution) for your operating system
+- Download [Anaconda](https://www.anaconda.com/products/distribution) for your operating system
 
 - Clone this repository to your local machine using 'git clone https://github.com/atilayyuri/data-related-meditations.git'
 
-- Use the terminal or an Anaconda Prompt
+- To create the same environment this project uses, use the terminal or an Anaconda Prompt (make sure that you are still in local project repository) and type in ```conda env create -f environment.yml```. In case this is not working please refer to [Anaconda document](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#)
+
+- Activate the environment using ```conda activate data-related-meditations```
