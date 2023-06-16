@@ -6,10 +6,11 @@ A small repository to gain skills and expertise that are aligned with the data s
 ```
 .
 ├── simple_exercises
+├── ml_practices
 └── Finance Data Project.ipynb 
 
 ```
-Currently, this repository contains simple data processing exercises, and a finance data project for data processing and visualisation.
+Currently, this repository contains simple data processing exercises, [ml practices](https://learn.microsoft.com/en-us/training/paths/machine-learning-foundations-using-data-science/), and a finance data project for data processing and visualisation.
 
 ## Prerequisites
 
