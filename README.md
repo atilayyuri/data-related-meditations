@@ -5,8 +5,8 @@ A small repository to gain skills and expertise that are aligned with the data s
 
 ```
 .
-├── simple_exercises
-├── ml_practices
+├── simple_exercises/
+├── ml_practices/
 └── Finance Data Project.ipynb 
 
 ```
