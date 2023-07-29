@@ -1,12 +1,13 @@
 ## data-related-meditations
-A small repository to gain skills and expertise that are aligned with the data scientiest roadmaps.
+A small repository to gain skills and expertise that are aligned with the data scientist roadmaps.
 
 ## Structure
 
 ```
 .
-├── simple_exercises/
-├── ml_practices/
+├── pandas_simple_exercises/
+├── ml-practices/
+├── ml-simple-exercises/
 └── Finance Data Project.ipynb 
 
 ```
@@ -19,7 +20,7 @@ Feel free to use any IDE of your choice.
 For users without experience, one of the popular methods for data science is using JupyterNotebook via Anaconda environment.
 
 
-To setup Anaconda environment please follow below steps:
+To set up the Anaconda environment, please follow below steps:
 
 - Download [Anaconda](https://www.anaconda.com/products/distribution) for your operating system
 
